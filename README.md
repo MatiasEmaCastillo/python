@@ -1,1 +1,1 @@
-# python
+Buenas que tal, espero que estes muy bien! En este repositorio voy a adjuntar el codigo de 2 de mis trabajos practicos realizados en python durante mi paso por la facultad, desde ya espero que les gusta y se diviertan, gracias y vuelva pronto!!!
